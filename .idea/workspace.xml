@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b17c356e-773a-4f23-869e-30b8183a6e08" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.clang-format" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cgi-bin/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cgi-bin/cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cgi-bin/create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cgi-bin/fileprint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cgi-bin/fileupload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cgi-bin/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cgi-bin/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cgi-bin/postTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cgi-bin/print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cgi-bin/process_create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cgi-bin/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/cgi-bin/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/GET.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/POST.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/calculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/cookie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/error/400.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/error/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/error/405.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/error/50x.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/fileUpload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/fileprint.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/load.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/print.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/html/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/animal01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/animal02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/animal03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/animal04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/animal05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/animal06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/animal07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/rope.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/wood.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkCleanUri.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/default.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/AMethod/AMethod.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/AMethod/AMethod.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/AMethod/MethodDelete.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/AMethod/MethodDelete.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/AMethod/MethodGet.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/AMethod/MethodGet.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/AMethod/MethodHead.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/AMethod/MethodHead.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/AMethod/MethodPost.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/AMethod/MethodPost.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/networking/ChangeList.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/networking/ChangeList.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/networking/UserData.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/networking/UserData.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/networking/WebServer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/networking/WebServer.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/networking/dataSet.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/networking/httpRequestParsing.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/networking/initServer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/networking/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/networking/waitForClientConnection.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/networking/webServerParseFileOrNull.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/util/Colors.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/util/Colors.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/util/Error.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/util/Error.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/util/MultiTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/util/MultiTree.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/util/MultiTreeNode.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcs/util/MultiTreeNode.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webserv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Web-Serv" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="Web-Serv" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2XNr28ZCZlkon89rCG16Qz50N1z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="b17c356e-773a-4f23-869e-30b8183a6e08" name="변경" comment="" />
+      <created>1698480169623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698480169623</updated>
+      <workItem from="1698480171166" duration="224000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
